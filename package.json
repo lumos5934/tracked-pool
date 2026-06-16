@@ -2,7 +2,7 @@
   "name": "com.llib.objectpool",
   "version": "1.0.0",
   "displayName": "Object Pool Extension",
-  "description": "유니티 오브젝트 풀을 이용한 확장 기능을 제공하는 패키지 입니다.",
+  "description": "\uc720\ub2c8\ud2f0 \uc624\ube0c\uc81d\ud2b8 \ud480\uc5d0 \uad00\ub828\ub41c \ud655\uc7a5 \uae30\ub2a5\uc744 \uc81c\uacf5\ud558\ub294 \ud328\ud0a4\uc9c0 \uc785\ub2c8\ub2e4.",
   "unity": "2022.0",
   "author": {
     "name": "LUMOS",
